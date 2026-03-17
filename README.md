@@ -11,7 +11,7 @@ Welcome to the official repository for **Trendy Quest Collection** — a fast-gr
 ## 🚀 Live Website
 
 🌍 **Visit Us Online:**
-👉 https://yourusername.github.io/trendy-quest-website/
+👉 [https://yourusername.github.io/trendy-quest-website/](https://trendy-quest.vercel.app/)
 
 ---
 
@@ -37,7 +37,7 @@ Opposite RNG Plaza, Nairobi
 * HTML5
 * CSS3
 * JavaScript
-*  React + Vite for modern builds
+*  React + Vite
 
 ---
 
